@@ -343,25 +343,6 @@ Pace focuses on that specific use case.
 
 ---
 
-## 🗺️ Roadmap
-
-Possible future improvements:
-
-* [ ] Custom playback speed
-* [ ] Video trimming
-* [ ] Better export settings
-* [ ] Output format selection
-* [ ] Drag & drop video files
-* [ ] Export cancellation
-* [ ] Export history
-* [ ] Batch video processing
-* [ ] Keyboard shortcuts
-* [ ] Video metadata information
-* [ ] Hardware-accelerated encoding
-* [ ] Packaged releases for Windows/macOS/Linux
-
----
-
 ## 🤝 Contributing
 
 Contributions, ideas, and suggestions are welcome.
