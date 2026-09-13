@@ -35,15 +35,9 @@ Pace currently supports:
 
 ---
 
-## 🖥️ Screenshots
+## 🖥️ Preview
 
-*Add screenshots here later.*
-
-Example:
-
-```md
-![Pace Screenshot](screenshots/main.png)
-```
+https://github.com/user-attachments/assets/64db6fb7-fc3a-47d9-b662-4a2ddbb6d5eb
 
 ---
 
